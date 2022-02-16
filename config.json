@@ -1,0 +1,9 @@
+{
+	"ip":"Chunkz.aternos.me",
+	"port": "23480",
+	"name": "vazha",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (njanvazha) (njanvazha)",
+	"login-cmd":"/login (njanvazha)"
+}
